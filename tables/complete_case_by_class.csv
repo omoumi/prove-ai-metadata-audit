@@ -1,0 +1,12 @@
+,all,complete,complete,complete,complete,complete_core,complete_core,complete_core,complete_core
+,images,images,groups,patients,lesions,images,groups,patients,lesions
+label,,,,,,,,,
+MEL,95,95,86,86,95,95,86,86,95
+NV,306,301,232,232,301,302,233,233,302
+BCC,9,9,9,9,9,9,9,9,9
+AK,19,19,18,18,19,19,18,18,19
+BKL,96,95,84,84,95,95,84,84,95
+DF,11,11,10,10,11,11,10,10,11
+VASC,1,1,1,1,1,1,1,1,1
+SCC,9,8,8,8,8,9,9,9,9
+OTHER,57,56,49,49,56,57,50,50,57

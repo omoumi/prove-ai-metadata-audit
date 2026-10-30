@@ -1,0 +1,10 @@
+,rate
+miss_age_approx,0.0
+miss_clin_size_long_diam_mm,0.001658374792703151
+miss_sex,0.0
+miss_anatom_site_1,0.008291873963515755
+miss_fitzpatrick_skin_type,0.0
+miss_personal_hx_mm,0.0
+miss_family_hx_mm,0.003316749585406302
+complete,0.9867330016583747
+complete_core,0.9917081260364843

@@ -1,0 +1,15 @@
+,column,reason_excluded,v_corrected,p_naive
+0,diagnosis_1,label,0.8977526132831918,2.0260112542158625e-199
+1,diagnosis_2,label,0.9831318667569691,0.0
+2,diagnosis_3,label,0.9932431658622105,0.0
+3,diagnosis_4,label,0.3140255440935011,2.8647034012838114e-66
+4,diagnosis_5,label,0.8332179820716055,5.232132148118152e-87
+5,melanocytic,label leak (derived from the diagnosis),0.7356761296054934,2.5565683970182956e-67
+6,mel_ulcer,label leak (melanoma histology),0.42102217022341937,9.793973078646872e-40
+7,mel_thick_mm,label leak (melanoma histology),0.19345975777495855,8.07931589496668e-20
+8,anatom_site_2,"sub-site, recorded only for some sites",0.16431709204816014,1.997336543973936e-08
+9,anatom_site_special,"sub-site flag, recorded only when it applies",0.0,0.9577206822139404
+10,dermoscopic_type,acquisition,0.194038879239793,7.213323627166598e-10
+11,pixels_x,acquisition,0.1563675847808731,4.297534821592961e-06
+12,pixels_y,acquisition,0.15636758478087315,4.297534821592896e-06
+13,acquisition_day,acquisition,0.2194428373457772,3.397377127090362e-13

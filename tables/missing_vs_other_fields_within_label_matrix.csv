@@ -1,0 +1,8 @@
+missing_field,age_approx,clin_size_long_diam_mm,sex,anatom_site_1,fitzpatrick_skin_type,personal_hx_mm,family_hx_mm
+age_approx,,,,,,,
+clin_size_long_diam_mm,,,,,,,
+sex,,,,,,,
+anatom_site_1,0.20920449073946368,0.058501799372434146,0.05902345787939621,,0.0,0.047286800611581074,0.0
+fitzpatrick_skin_type,,,,,,,
+personal_hx_mm,,,,,,,
+family_hx_mm,0.06486557349959858,0.017714785820723254,0.0,0.08059404485286586,0.0,0.004001362246824346,

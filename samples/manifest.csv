@@ -1,0 +1,26 @@
+file,image_id,label,license,attribution,caption
+samples/MEL_ISIC_8710108.jpg,ISIC_8710108,MEL,CC-0,Memorial Sloan Kettering Cancer Center,85 y | male | Head and neck
+samples/MEL_ISIC_1814941.jpg,ISIC_1814941,MEL,CC-0,Memorial Sloan Kettering Cancer Center,70 y | female | Upper extremity
+samples/MEL_ISIC_4097868.jpg,ISIC_4097868,MEL,CC-0,Memorial Sloan Kettering Cancer Center,65 y | male | Trunk
+samples/NV_ISIC_0475038.jpg,ISIC_0475038,NV,CC-0,Memorial Sloan Kettering Cancer Center,75 y | male | Trunk
+samples/NV_ISIC_9705935.jpg,ISIC_9705935,NV,CC-0,Memorial Sloan Kettering Cancer Center,65 y | male | Trunk
+samples/NV_ISIC_4733754.jpg,ISIC_4733754,NV,CC-0,Memorial Sloan Kettering Cancer Center,75 y | female | Trunk
+samples/BCC_ISIC_7276156.jpg,ISIC_7276156,BCC,CC-0,Memorial Sloan Kettering Cancer Center,55 y | male | Trunk
+samples/BCC_ISIC_4713713.jpg,ISIC_4713713,BCC,CC-0,Memorial Sloan Kettering Cancer Center,55 y | female | Head and neck
+samples/BCC_ISIC_0808203.jpg,ISIC_0808203,BCC,CC-0,Memorial Sloan Kettering Cancer Center,60 y | male | Upper extremity
+samples/AK_ISIC_0639571.jpg,ISIC_0639571,AK,CC-0,Memorial Sloan Kettering Cancer Center,80 y | male | Upper extremity
+samples/AK_ISIC_6434212.jpg,ISIC_6434212,AK,CC-0,Memorial Sloan Kettering Cancer Center,80 y | male | Head and neck
+samples/AK_ISIC_3685033.jpg,ISIC_3685033,AK,CC-0,Memorial Sloan Kettering Cancer Center,65 y | female | Upper extremity
+samples/BKL_ISIC_0991761.jpg,ISIC_0991761,BKL,CC-0,Memorial Sloan Kettering Cancer Center,65 y | female | Upper extremity
+samples/BKL_ISIC_0686366.jpg,ISIC_0686366,BKL,CC-0,Memorial Sloan Kettering Cancer Center,75 y | male | Trunk
+samples/BKL_ISIC_2398564.jpg,ISIC_2398564,BKL,CC-0,Memorial Sloan Kettering Cancer Center,65 y | male | Head and neck
+samples/DF_ISIC_2304572.jpg,ISIC_2304572,DF,CC-0,Memorial Sloan Kettering Cancer Center,65 y | female | Trunk
+samples/DF_ISIC_1244418.jpg,ISIC_1244418,DF,CC-0,Memorial Sloan Kettering Cancer Center,70 y | female | Lower extremity
+samples/DF_ISIC_7461616.jpg,ISIC_7461616,DF,CC-0,Memorial Sloan Kettering Cancer Center,80 y | male | Lower extremity
+samples/VASC_ISIC_1935453.jpg,ISIC_1935453,VASC,CC-0,Memorial Sloan Kettering Cancer Center,70 y | male | Head and neck
+samples/SCC_ISIC_1708591.jpg,ISIC_1708591,SCC,CC-0,Memorial Sloan Kettering Cancer Center,55 y | female | Lower extremity
+samples/SCC_ISIC_9615486.jpg,ISIC_9615486,SCC,CC-0,Memorial Sloan Kettering Cancer Center,55 y | male | Trunk
+samples/SCC_ISIC_7043369.jpg,ISIC_7043369,SCC,CC-0,Memorial Sloan Kettering Cancer Center,35 y | female | Lower extremity
+samples/OTHER_ISIC_5943091.jpg,ISIC_5943091,OTHER,CC-0,Memorial Sloan Kettering Cancer Center,45 y | male | Head and neck
+samples/OTHER_ISIC_0282371.jpg,ISIC_0282371,OTHER,CC-0,Memorial Sloan Kettering Cancer Center,70 y | female | Head and neck
+samples/OTHER_ISIC_4515981.jpg,ISIC_4515981,OTHER,CC-0,Memorial Sloan Kettering Cancer Center,70 y | male | Head and neck
